@@ -1,2 +1,2 @@
-# Simple-Calculator
-simple calculator in command line through typescript , javascript and inquirer
+# Number-Guessing_Game
+Number Guessing Game
